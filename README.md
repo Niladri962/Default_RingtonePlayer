@@ -7,6 +7,7 @@ The app is used for to know default ringtone of mobile.
 - **Intuitive UI**: Simple and user-friendly interface for a seamless experience.
 
 
+
 ## Installation
 To install the Counter App on your Android device, follow these steps:
 1. Download the APK file from the [releases](https://github.com/yourusername/counter-app/releases) section.
